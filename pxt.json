@@ -9,12 +9,9 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "extra_number_blocks.ts",
-        "test.ts"
+        "extra_number_blocks.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.12.34",
         "targetId": "arcade"
